@@ -1,8 +1,6 @@
 # Note
 
-The audio file: `1979-fa-cup-final-64k.mp3`
-
-uploaded in the repo is compressed using
+The audio file: `1979-fa-cup-final-64k.mp3` uploaded in the repo is compressed using
 
 ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) 
 
